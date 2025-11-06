@@ -1,0 +1,5 @@
+2025-07-13 13:09:36,749 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-07-13 13:10:56,066 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.klef.ep.springboot:FoodConnectSDP:0.0.1-SNAPSHOT @ C:\FoodConnectSDP (2) 2\FoodConnectSDP\pom.xml.
+2025-07-13 13:11:20,220 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-07-13 13:11:20,283 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-07-13 13:11:20,335 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\FoodConnectSDP (2) 2\FoodConnectSDP\src\test\resources
